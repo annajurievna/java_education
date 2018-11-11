@@ -1,8 +1,8 @@
 package lesson2.task1;
 
 public class Circle {
-    private double radius;
-    private String color;
+	protected double radius;
+	protected String color;
     
     public Circle() {
         radius = 1.0D;
